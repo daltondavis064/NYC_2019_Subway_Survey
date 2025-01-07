@@ -27,3 +27,4 @@ I cleaned those up and then used the concat function in pandas to add the column
 I dropped the top_three_complaints column as we had those seperated out into individual columns.
 
 Finally it output the data in our newData dataframe into a brand new csv file titled Edited_2019_Subway_Rider_Survey.csv finishing the cleaning and transformation of the data we downloaded into a usable csv for our data analysis.
+
